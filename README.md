@@ -1,0 +1,2 @@
+# skripsi
+Aplikas Skripsi
